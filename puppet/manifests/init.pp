@@ -23,4 +23,4 @@ package { 'chromium-browser':
 }
 
 include x11-common
-#include xsession
+include xsession
