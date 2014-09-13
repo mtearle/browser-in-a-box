@@ -22,3 +22,4 @@ package { 'chromium-browser':
 }
 
 include xsession
+include nodm
